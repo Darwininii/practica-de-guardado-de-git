@@ -1,0 +1,17 @@
+.tarjeta {
+    background-color: yellow;
+    width: 400px;
+    height: 500px; 
+    padding: 20px;
+}
+
+.borde{
+    border: 1px solid brown;
+    height: 100%;
+
+}
+.contenido{
+    display: flex;
+    flex-direction: column;
+    
+}

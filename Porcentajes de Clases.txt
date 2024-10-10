@@ -1,0 +1,21 @@
+Fronted 15%
+Backend 15%
+BD      15%
+Implementación de IA 15%
+Proyecto Final       40%
+
+
+herramienta Git
+pwd --- posicionamiento de la carpeta actual
+ls --- lista de las carpetas y archivos donde están actualmente
+cd "nombre de la carpeta" ---- sirve para cambiar de carpeta
+cd --- te lleva a la carpeta de usuario por defecto
+cd .. --- te regresa a la carpeta anterior
+clear --- limpia la terminal para comenzar de nuevo
+git config --global user.name "user"
+git config --global user.email "user@email"
+git add -A --- empaquetar archivos para preparar la subida de archivos 
+git commit -m "mensaje" --- preparar el guardado para subirlo
+git init --- inicializar la función git
+git status --- el estado actual
+

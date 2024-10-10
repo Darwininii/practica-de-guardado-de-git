@@ -1,0 +1,15 @@
+.contenedor{
+    border: 2px solid;
+    height: 500px;
+    width: 500px;
+    
+}
+
+.elemento{
+    border: 1px solid red;
+    height: 100px; ;
+    width: 100px;
+    display: flex;
+    justify-content: flex-end;
+}
+

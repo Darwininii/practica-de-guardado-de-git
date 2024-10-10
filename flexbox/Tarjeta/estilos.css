@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.tarjeta {
+    border: 2px solid salmon;
+    height: 300px;
+    width: 600px;
+    display: flex;
+    align-items:flex-start;
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: rgba(236, 234, 234, 0.414) 0px 5px 10px;
+}
+
+.Thrall{
+    height: 270px;
+    width: 270px;
+    border-radius: 50%;
+    border: 2px solid rgb(6, 6, 6);
+}
