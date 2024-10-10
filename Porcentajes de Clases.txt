@@ -21,3 +21,7 @@ git status --- el estado actual
 git log --- muestra los cambios guardados hasta el momento
 git checkout master --- muestra todos los cambios guardados a lo largo del tiempo
 history --- muestra el historial de comandos
+git remote add origin --- agregar una conexión remota
+git remote -v --- muestra las conexión establecida
+git remote remove origin --- elimina la conexión establecida
+

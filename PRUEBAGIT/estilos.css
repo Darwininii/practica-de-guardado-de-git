@@ -1,8 +1,10 @@
 .card{
     display: flex;
-    width: 18rem;
+    width: max-content;
     background-color: blueviolet;
 }
+
+
 .list-grouplist-group-flush{
-    display: block;
+
 }
