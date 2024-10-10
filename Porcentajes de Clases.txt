@@ -18,4 +18,6 @@ git add -A --- empaquetar archivos para preparar la subida de archivos
 git commit -m "mensaje" --- preparar el guardado para subirlo
 git init --- inicializar la función git
 git status --- el estado actual
-
+git log --- muestra los cambios guardados hasta el momento
+git checkout master --- muestra todos los cambios guardados a lo largo del tiempo
+history --- muestra el historial de comandos

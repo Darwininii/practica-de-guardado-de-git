@@ -1,0 +1,8 @@
+.card{
+    display: flex;
+    width: 18rem;
+    background-color: blueviolet;
+}
+.list-grouplist-group-flush{
+    display: block;
+}
